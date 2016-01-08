@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - prize@localhost" uuid="eb3834f4-e039-4d90-8f9a-fc8876ac98ba">
+      <secret-storage>master_key</secret-storage>
+      <user-name>den</user-name>
+      <schema-pattern>prize.pg_catalog prize.public</schema-pattern>
+      <default-schemas>prize.public</default-schemas>
+    </data-source>
+  </component>
+</project>
